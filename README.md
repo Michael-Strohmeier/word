@@ -12,3 +12,5 @@ text_df - there is a class in there that does
 - finds/displays most frequently occuring n-grams
 
 does other stuff i think dont really remember. 
+
+disclaimer - there is some random code that is pretty garbage in each notebook just ignore it. dont feel like cleaning it up rn
